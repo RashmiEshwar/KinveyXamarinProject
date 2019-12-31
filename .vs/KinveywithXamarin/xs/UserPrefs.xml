@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{A380AFCE-B89E-4164-826D-B28D4DD39026}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../.nuget/packages/xamarin.android.support.annotations/28.0.0.3/build/monoandroid90/Xamarin.Android.Support.Annotations.targets">
+    <Files>
+      <File FileName="KinveywithXamarin/Services/KinveyAuthservice.cs" Line="7" Column="48" />
+      <File FileName="KinveywithXamarin/Services/KinveyBookService.cs" Line="10" Column="49" />
+      <File FileName="KinveywithXamarin/Services/Interfaces.cs" Line="1" Column="1" />
+      <File FileName="KinveywithXamarin/BookViewPage.xaml.cs" Line="33" Column="10" />
+      <File FileName="KinveywithXamarin/BookViewPage.xaml" Line="25" Column="1" />
+      <File FileName="KinveywithXamarin/BookDetailViewPage.xaml" Line="18" Column="15" />
+      <File FileName="KinveywithXamarin/BookDetailViewPage.xaml.cs" Line="16" Column="14" />
+      <File FileName="KinveywithXamarin/LoginPage.xaml" Line="16" Column="1" />
+      <File FileName="KinveywithXamarin/LoginPage.xaml.cs" Line="72" Column="2" />
+      <File FileName="../../../../.nuget/packages/xamarin.android.support.annotations/28.0.0.3/build/monoandroid90/Xamarin.Android.Support.Annotations.targets" Line="20" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KinveywithXamarin" expanded="True">
+            <Node name="KinveywithXamarin" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="Acr.UserDialogs" selected="True" />
+                </Node>
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="BookDetailViewPage.xaml" expanded="True" />
+              <Node name="BookViewPage.xaml" expanded="True" />
+              <Node name="LoginPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.KinveywithXamarin.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.KinveywithXamarin.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

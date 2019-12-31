@@ -1,0 +1,16 @@
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/bin/Debug/netstandard2.0/KinveywithXamarin.deps.json
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/bin/Debug/netstandard2.0/KinveywithXamarin.dll
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/bin/Debug/netstandard2.0/ref/KinveywithXamarin.dll
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/bin/Debug/netstandard2.0/KinveywithXamarin.pdb
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/obj/Debug/netstandard2.0/BookViewPage.xaml.g.cs
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/obj/Debug/netstandard2.0/LoginPage.xaml.g.cs
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/obj/Debug/netstandard2.0/KinveywithXamarin.AssemblyInfoInputs.cache
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/obj/Debug/netstandard2.0/KinveywithXamarin.AssemblyInfo.cs
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/obj/Debug/netstandard2.0/KinveywithXamarin.dll
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/obj/Debug/netstandard2.0/ref/KinveywithXamarin.dll
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/obj/Debug/netstandard2.0/KinveywithXamarin.pdb
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/obj/Debug/netstandard2.0/KinveywithXamarin.csprojAssemblyReference.cache
+/Users/akankshasmacmini/Documents/Rashmi/xamarin projects/KinveywithXamarin/KinveywithXamarin/obj/Debug/netstandard2.0/BookDetailViewPage.xaml.g.cs

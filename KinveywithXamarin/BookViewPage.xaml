@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="KinveywithXamarin.BookViewPage">
+     <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Clicked="Handle_AddItem"/>
+    </ContentPage.ToolbarItems>
+    <StackLayout>
+        <SearchBar Placeholder="Search..." TextChanged="Handle_TextChanged"/>
+
+        <ListView x:Name="Contactlist"
+            ItemSelected="Handle_ItemSelected"
+                  IsPullToRefreshEnabled="True" Refreshing="Handle_Refreshing">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Title}" Detail="{Binding Author}">
+                        <TextCell.ContextActions>
+                            <MenuItem Text="Delete" Clicked="Handle_DeleteItem" IsDestructive="True" CommandParameter="{Binding .}"></MenuItem>
+                        </TextCell.ContextActions>
+                    </TextCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </StackLayout>
+</ContentPage>
+
